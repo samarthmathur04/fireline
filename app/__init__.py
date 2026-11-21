@@ -1,1 +1,1 @@
-"""Keep Your Home Insurable: estimated wildfire risk from public data."""
+"""Fireline: estimated wildfire insurance risk from public data."""

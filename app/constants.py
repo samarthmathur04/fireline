@@ -18,7 +18,8 @@ DEFAULT_EXAMPLE_ADDRESS = "Caney Creek Lane, Greene County, TN"
 SECOND_EXAMPLE_ADDRESS = "Grizzly Peak Blvd, Berkeley, CA"
 
 USER_AGENT = (
-    "KeepYourHomeInsurable/1.0 (educational US wildfire-risk demo; "
+    "Fireline/1.0 (educational US wildfire insurance-risk demo; "
+    "+https://github.com/samarthmathur04/fireline; "
     "+https://github.com/saenz-blip/keep-your-home-insurable; "
     "contact: saenz-blip@users.noreply.github.com)"
 )

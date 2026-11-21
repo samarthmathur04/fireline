@@ -1,10 +1,12 @@
-# Keep Your Home Insurable
+# Fireline
 
 **Live demo: https://keep-your-home-insurable.onrender.com** (free Render instance: the first load after idle can take about 50 seconds)
 
-Repo: https://github.com/saenz-blip/keep-your-home-insurable
+Fork: https://github.com/samarthmathur04/fireline · Upstream (hackathon team): https://github.com/saenz-blip/keep-your-home-insurable
 
-Estimated wildfire risk for a US address, from public weather and satellite data. It is not an insurer's score.
+**Fireline** turns public weather and satellite data into one wildfire **insurance risk signal** for a US address. It is not an insurer's score.
+
+> Built for the Berkeley × Stanford Grok Bot Hackathon (Track 3). The original project name was *Keep Your Home Insurable*; the deployed URL still uses that name on Render.
 
 ## Inspiration
 

@@ -1,4 +1,4 @@
-"""Keep Your Home Insurable.
+"""Fireline — wildfire insurance risk from public data.
 
 Run: uvicorn app.main:app
 """
@@ -30,9 +30,9 @@ ROOT = Path(__file__).resolve().parent.parent
 load_dotenv(ROOT / ".env")
 
 logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger("insurable")
+logger = logging.getLogger("fireline")
 
-app = FastAPI(title="Keep Your Home Insurable", docs_url="/api/docs")
+app = FastAPI(title="Fireline", docs_url="/api/docs")
 
 CLEAN_FAILURE = {
     "ok": False,
