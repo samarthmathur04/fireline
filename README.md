@@ -10,6 +10,11 @@ Fork: https://github.com/samarthmathur04/fireline · Upstream (hackathon team): 
 
 > The original project name was *Keep Your Home Insurable*; the deployed URL still uses that name on Render.
 
+## Docs (this fork)
+
+- [Demo script](docs/DEMO.md) · [Fork vs upstream](docs/FORK.md)
+- [Frontend notes](docs/frontend/README.md) (globe, hero, feeds, outage demo)
+
 ## Inspiration
 
 Homeowners in fire country are losing coverage and cannot see the number an insurer used. The public ingredients of a bad fire day are already online: afternoon heat, dry air, wind, days since rain, and satellite hotspots. This is a hackathon tool (Berkeley x Stanford Grok Bot Hackathon, Track 3) that puts those feeds in one place and pairs them with California's Safer from Wildfires checklist.
