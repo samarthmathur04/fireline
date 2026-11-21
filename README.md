@@ -4,7 +4,7 @@
 
 **Live demo: https://keep-your-home-insurable.onrender.com** (free Render instance: the first load after idle can take about 50 seconds)
 
-Fork: https://github.com/samarthmathur04/fireline · Upstream (hackathon team): https://github.com/saenz-blip/keep-your-home-insurable
+Portfolio repo: https://github.com/samarthmathur04/fireline-showcase · Fork mirror: https://github.com/samarthmathur04/fireline · Upstream: https://github.com/saenz-blip/keep-your-home-insurable
 
 **Fireline** turns public weather and satellite data into one wildfire **insurance risk signal** for a US address. It is not an insurer's score.
 
